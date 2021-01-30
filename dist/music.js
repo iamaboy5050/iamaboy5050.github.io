@@ -8,7 +8,7 @@ const ap = new APlayer({
     preload: 'auto',
     volume: 0.7,
     mutex: true,
-    listFolded: false,
+    listFolded: true,
     listMaxHeight: '200px',
     lrcType: 3,
     audio: [
